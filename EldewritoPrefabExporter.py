@@ -1,11 +1,11 @@
 bl_info = {
-	"name": "Eldewrito Prefab Format",
+	"name": "Eldewrito Prefab Exporter",
 	"author": "Weebmaster",
 	"version": (1, 0, 0),
 	"blender": (2, 80, 0),
-	"location": "File > Export > Eldewrito Prefab",
+	"location": "File > Export > Eldewrito Prefab (.prefab)",
 	"description": "Prefab exporter compatible with Eldewrito's forge prefab system ",
-	"warning": "",
+	"warning": "Requires OBJ files obtained from Eldewrito to properly display once exported from blender",
 	"wiki_url": "",
 	"category": "Import-Export",
 }
