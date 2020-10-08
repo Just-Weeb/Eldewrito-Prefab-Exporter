@@ -1,7 +1,7 @@
 bl_info = {
 	"name": "Eldewrito Prefab Exporter",
 	"author": "Weebmaster",
-	"version": (1, 0, 1),
+	"version": (2, 0, 0),
 	"blender": (2, 80, 0),
 	"location": "File > Export > Eldewrito Prefab (.prefab)",
 	"description": "Prefab exporter compatible with Eldewrito's forge prefab system ",
